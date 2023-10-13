@@ -5,9 +5,9 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 ## Table of Contents
 
 1. Hipster Hippogriff
-2. The Spaghetti Yeti
+2. The Spaghetti Dolphin
 3. Caffeinated Centaur
-4. One Eyed Lion
+4. Six Eyed Lion
 5. Long Cat
 6. Buff Bunny
 7. Simulacrum Abyss Flower
@@ -24,27 +24,21 @@ He faced discrimination for being a hipster in a blue collared neighbourhood. Ev
 
 They may commonly be found in alleys, doing a mating dance called drug dealing.
 
-## The Spaghetti Yeti
+## The Spaghetti Dolphin
 
 This high-altitude creature roams the mountainous regions of italy, leaving trails of marinara sauce in its wake. 
 
-Often confused with the traditional Yeti, the Spaghetti Yeti is known for its deliciously tangled fur and insatiable appetite for meatballs.
+Often confused with the traditional Dolphin, the Spaghetti Dolphin is known for its deliciously tangled fur and insatiable appetite for meatballs.
 
-Each spaghetti strand on the Yeti is a rare variant of tapeworm, that when consumed, forcefully transforms primates into Spaghetti Yetis.
+Each spaghetti strand on the Dolphin is a rare variant of tapeworm, that when consumed, forcefully transforms primates into Spaghetti Dolphins.
 
-## Caffeinated Centaur
+## Red Caffeinated Centaur
 
-Originating from the ancient coffee forests of Ethiopia, this creature can outrun any animal after having its morning brew. 
+Redbull is supposed to give you wings, but it gave this guy a horse :) .
 
-If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
+## Six Eyed Lion
 
-Caffeinated Centaurs were once normal people from Ethiopia, having mutated after consumed radioactive coffee beans from the nearby destroyed nuclear plants. 
-
-It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
-
-## One Eyed Lion
-
-It's a lion with one eye on its stomach what do want me to say.
+It's a lion with six eyes, what do want me to say.
 
 ## Longs Cat
 
@@ -56,9 +50,7 @@ Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has i
 
 ## Simulacrum Abyss Flower
 
-A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an fake expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
-It produces mimics that imitate its days’s behavior acurately, no matter how complex, and slowly replaces all life within its growing area of influence.
-
+A flower.
 
 ## Bulbasaur
 
@@ -90,5 +82,5 @@ e\>-creature-addition. (Where \<yourname\> is your first name.)
   * Deal with the merge conflict in your local branch.
   * Push your branch back to the remote.
   * Attempt to create a pull request again.
+  * Anarchy
 * Now head to the computer of another student in your group and attempt to approve the pull request. 
-
