@@ -39,6 +39,14 @@ Legend states that if you spot the shark, it will smile back, before vanishing b
 
 No one has ever heard the shark speak, it is rumoured that it has the voice of an angel, or the sounds of a scammer.
 
+## OwlBear
+
+An Owlbear is a large, ferocious, predatory monster with the body of a bear and the head of an owl, characterized by thick fur and feathers, a hooked, serrated beak, large round eyes, and sharp talons. 
+
+Standing approximately 8 feet tall and weighing up to 1,500 pounds, these creatures are known for their aggression, ill-temper, and a terrifying screech. 
+
+They typically inhabit dense forests and caves, hunting alone or in mated pairs to satisfy their voracious appetites.
+
 # Tasks for Students
 
 ## Part One: New Creatures
