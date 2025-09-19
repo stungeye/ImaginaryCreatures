@@ -1,19 +1,12 @@
 # Unofficial Guide to Imaginary Creatures 🦄
 
-Welcome to the most comprehensive guide about creatures that... well, don't actually exist. 
+Welcome to the most comprehensive guide about creatures that... don't actually exist. 
 
 ## Table of Contents
 
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
-4. One Eyed Lion
-5. Long Cat
-6. Buff Bunny
-7. Simulacrum Abyss Flower
-8. Unicrab
-9. Bulbasaur
-
 
 ## Hipster Hippogriff
 
@@ -43,41 +36,11 @@ Caffeinated Centaurs were once normal people from Ethiopia, having mutated after
 
 It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
 
-## One Eyed Lion
-
-It's a lion with one eye on its stomach what do want me to say.
-
-## Longs Cat
-
-The long cat is a monstrous creature. It looks much like a incredibliy ugly cat, but don't be fooled! this kitty is slightly longer.
-
-## Buff Bunny
-
-Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has it that Buff Bunnies eat their weaker brothers and sisters in order to reach the state they are in now.
-
-## Simulacrum Abyss Flower
-
-A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an fake expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
-
-## Unicrab
-
-A large, crab-like creature with a single claw protruding from its forehead much like a unicorn's horn. I like it :)
-
-
-## Bulbasaur
-
-The grass type starter from pokemon the worst one.
-
-## angry Bob
- 
-He appears one time every year on a full moon to kill 18 babies. And grows a second head, similar to mitosis. once he has enough limbs he willl spilt into 2 bobs. bob is short, he enjoys kicking parents shins.  
-
-
 # Tasks for Students
 
 ## Part One: New Creatures
 
-* Provide Kile with your Git username so that he can add you as a contributor to this repo.
+* Provide Kyle with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
   * Create a branch called \<yournam
 e\>-creature-addition. (Where \<yourname\> is your first name.)
