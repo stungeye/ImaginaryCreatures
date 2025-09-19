@@ -36,6 +36,14 @@ Caffeinated Centaurs were once normal people from Ethiopia, having mutated after
 
 It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
 
+## OwlBear
+
+An Owlbear is a large, ferocious, predatory monster with the body of a bear and the head of an owl, characterized by thick fur and feathers, a hooked, serrated beak, large round eyes, and sharp talons. 
+
+Standing approximately 8 feet tall and weighing up to 1,500 pounds, these creatures are known for their aggression, ill-temper, and a terrifying screech. 
+
+They typically inhabit dense forests and caves, hunting alone or in mated pairs to satisfy their voracious appetites.
+
 # Tasks for Students
 
 ## Part One: New Creatures
