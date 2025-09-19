@@ -7,6 +7,7 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
+4. Blue Pikmin
 
 ## Hipster Hippogriff
 
@@ -35,6 +36,10 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 Caffeinated Centaurs were once normal people from Ethiopia, having mutated after consumed radioactive coffee beans from the nearby destroyed nuclear plants. 
 
 It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
+
+## Blue Pikmin
+
+A mysterious blue plant creature that looks like a pikpik carrot.
 
 # Tasks for Students
 
