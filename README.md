@@ -7,6 +7,7 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
+4. Shark with a Shirt
 
 ## Hipster Hippogriff
 
@@ -35,6 +36,18 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 Caffeinated Centaurs were once normal people from Ethiopia, having mutated after consumed radioactive coffee beans from the nearby destroyed nuclear plants. 
 
 It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
+
+## Shark with a Shirt
+
+Once a shark from the sea, now a shark that pays taxes.
+
+An urban myth that somewhere within the streets of downtown, one can spot a shark wearing a dress shirt and necktie.
+
+It is said that the shark works for a shady finance company that deals with loans.
+
+Legend states that if you spot the shark, it will smile back, before vanishing behind a bus passing by, no matter where you are, a bus will pass.
+
+No one has ever heard the shark speak, it is rumoured that it has the voice of an angel, or the sounds of a scammer.
 
 # Tasks for Students
 
