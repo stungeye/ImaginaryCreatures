@@ -28,7 +28,7 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 
 # Tasks for Students
 
-## Part One: New Creatures
+## New Creatures
 
 * Provide Kyle with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
@@ -40,15 +40,6 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
   * Create a pull request.
 
 * Kyle will approve your pull request.
-
-## Part Two: Modifying Existing Creatures
-
-* On student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
-* Add a sentence to one of the creature descriptions and commit that change locally.
-* Make a small change to one of the existing creature descriptions and commit that change locally.
-* Push your branch remotely.
-* Create a pull request.
-* If there are merge conflicts:
 
   * You will need to pull the latest commits from main into your branch.
   * Deal with the merge conflict in your local branch.
