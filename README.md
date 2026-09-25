@@ -12,7 +12,7 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 
 Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was into mythical creatures before they were cool.
 
-It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume. 
+It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
 ## The Spaghetti Yeti
 
@@ -26,6 +26,12 @@ Originating from the ancient coffee forests of Ethiopia, this creature can outru
 
 If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
+## Tumultuous Tulpa
+
+I cannot tell you what this is, for it preys upon your imagination. It would be too dangerous. Stop thinking about it!!
+
+
+
 # Tasks for Students
 
 ## New Creatures
@@ -33,10 +39,10 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 * Provide Kyle with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
 
-  * Create a branch called \<yourname\>-creature-addition. (Where \<yourname\> is your first name.)
+  * Create a branch called <yourname>-creature-addition. (Where <yourname> is your first name.)
   * Add a new creature and description to the webpage. (Don't forget to add to the table of contents too.)
   * Commit your change locally.
   * Push your branch remotely.
   * Create a pull request.
-
 * Kyle will approve your pull request.
+
