@@ -27,55 +27,15 @@ Originating from the ancient coffee forests of Ethiopia, this creature can outru
 
 If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
+## Tumultuous Tulpa
+
+I cannot tell you what this is, for it preys upon your imagination. It would be too dangerous. Stop thinking about it!!
+
 ## Pig
 
 This is just a normal pig. That's all. Seriously.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This pig also eats worlds.
-
-
 
 # Tasks for Students
 
