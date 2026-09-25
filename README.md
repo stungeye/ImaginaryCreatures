@@ -33,7 +33,7 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 * Provide Kyle with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
 
-  * Create a branch called <yourname>-creature-addition. (Where <yourname> is your first name.)
+  * Create a branch called \<yourname\>-creature-addition. (Where \<yourname\> is your first name.)
   * Add a new creature and description to the webpage. (Don't forget to add to the table of contents too.)
   * Commit your change locally.
   * Push your branch remotely.
@@ -43,7 +43,7 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 
 ## Part Two: Modifying Existing Creatures
 
-* On student in your group should create a branch called <yourname>-description-change. (Where <yourname> is your first name.)
+* On student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
 * Add a sentence to one of the creature descriptions and commit that change locally.
 * Make a small change to one of the existing creature descriptions and commit that change locally.
 * Push your branch remotely.
