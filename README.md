@@ -8,6 +8,9 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
 4. Fondant Faerie
+5. Tumultuous Tulpa
+6. Pig
+7. Plural Pegasus
 
 ## Hipster Hippogriff
 
@@ -30,6 +33,23 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 ## Fondant Faerie
 
 This faerie owns a bakery in Hoboken, New Jersey.
+
+
+## Tumultuous Tulpa
+
+I cannot tell you what this is, for it preys upon your imagination. It would be too dangerous. Stop thinking about it!!
+
+## Pig
+
+This is just a normal pig. That's all. Seriously.
+
+This pig also eats worlds.
+
+## Plural Pegasus
+
+Created in a lab in ancient Greece, this Pegasus constantly duplicates with little control on how many copies it creates.
+
+Currently contained within a secret bunker miles deep underground, we are all currently safe from a world filled with Pegasus that would trample us all alive.
 
 # Tasks for Students
 
