@@ -7,7 +7,9 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
-4. Pig
+4. Plural Pegasus
+5. Tumultuous Tulpa
+6. Pig
 
 ## Hipster Hippogriff
 
@@ -26,6 +28,12 @@ Often confused with the traditional Yeti, the Spaghetti Yeti is known for its de
 Originating from the ancient coffee forests of Ethiopia, this creature can outrun any animal after having its morning brew.
 
 If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
+
+## Plural Pegasus
+
+Created in a lab in ancient Greece, this Pegasus constantly duplicates with little control on how many copies it creates.
+
+Currently contained within a secret bunker miles deep underground, we are all currently safe from a world filled with Pegasus that would trample us all alive.
 
 ## Tumultuous Tulpa
 
