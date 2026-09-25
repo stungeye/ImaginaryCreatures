@@ -7,12 +7,13 @@ Welcome to the most comprehensive guide about creatures that... don't actually e
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
+4. Pig
 
 ## Hipster Hippogriff
 
 Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was into mythical creatures before they were cool.
 
-It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume. 
+It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
 ## The Spaghetti Yeti
 
@@ -26,6 +27,56 @@ Originating from the ancient coffee forests of Ethiopia, this creature can outru
 
 If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
+## Pig
+
+This is just a normal pig. That's all. Seriously.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This pig also eats worlds.
+
+
+
 # Tasks for Students
 
 ## New Creatures
@@ -33,10 +84,10 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
 * Provide Kyle with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
 
-  * Create a branch called \<yourname\>-creature-addition. (Where \<yourname\> is your first name.)
+  * Create a branch called <yourname>-creature-addition. (Where <yourname> is your first name.)
   * Add a new creature and description to the webpage. (Don't forget to add to the table of contents too.)
   * Commit your change locally.
   * Push your branch remotely.
   * Create a pull request.
-
 * Kyle will approve your pull request.
+
