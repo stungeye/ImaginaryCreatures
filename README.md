@@ -40,10 +40,3 @@ If you hear the galloping sound of hoves and smell a rich dark roast, you know t
   * Create a pull request.
 
 * Kyle will approve your pull request.
-
-  * You will need to pull the latest commits from main into your branch.
-  * Deal with the merge conflict in your local branch.
-  * Push your branch back to the remote.
-  * Attempt to create a pull request again.
-
-* Now head to the computer of another student in your group and attempt to approve the pull request.
